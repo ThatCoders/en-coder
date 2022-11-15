@@ -9,5 +9,15 @@
     "gulp-rename": "*",
     "gulp-svgo": "*",
     "gulp-watch": "*"
-  }
+  },
+  "name": "en-coder",
+  "description": "![most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words/workflows/most-frequent-technology-english-words/badge.svg?branch=master)",
+  "version": "1.0.1",
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "bundle exec jekyll serve"
+  },
+  "author": "Naive",
+  "license": "ISC"
 }
